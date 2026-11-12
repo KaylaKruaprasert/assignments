@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+ul {
+  align-items:right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  width: 130px;
+  background-color: #f3d7d7;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: rgb(92, 89, 89);
+  padding: 8px 16px;
+  text-decoration: none;
+  
+}
+
+li a:hover{
+  background-color: #d06f6f;
+  color:#f1f1f1 }
+
+
+nav{width: 120px; float: right; text-align:right}
+
+
+
+body{text-align:center}
+
+img{max-width: 100%; height: auto; align-items: right;}
